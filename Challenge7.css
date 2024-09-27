@@ -1,0 +1,34 @@
+.body{
+    background-color: blue;
+}
+.r1c1{
+    background-color: blue;
+}
+.r1c2{
+    background-color: blue;
+}.r1c3{
+    background-color: blue;
+}.r1c4{
+    background-color: blue;
+}.r1c5{
+    background-color:red;
+}.r1c6{
+    background-color: blue;
+}
+.r2c1{
+    background-color: blue;
+}
+.r2c2{
+    background-color: blue;
+}.r2c3{
+    background-color: blue;
+}.r2c4{
+    background-color:red;
+}.r2c5{
+    background-color:red;
+}.r2c6{
+    background-color: blue;
+}
+table{
+    border:none;
+}

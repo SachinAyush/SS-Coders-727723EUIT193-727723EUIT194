@@ -1,4 +1,4 @@
-.top-section{
+#top-section{
     color: white;
     font-size: 26px;
     font-family: "Bree Serif";
@@ -6,10 +6,9 @@
     height: 40vh;
     background-size: cover;
 }
-.bottom-section{
+#bottom-section{
     background-color: lightblue;
     padding: 10px;
-
 }
 .card{
     background-color: white;
